@@ -54,7 +54,7 @@ PRODUCT_COPY_FILES += \
 
 # QCOM Display
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.sf.lcd_density=240
+    ro.sf.lcd_density=312
 
 # Telephony
 PRODUCT_PROPERTY_OVERRIDES += \
