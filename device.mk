@@ -23,7 +23,7 @@ $(call inherit-product, device/motorola/msm8960_jbbl-common/msm8960.mk)
 
 LOCAL_PATH := device/motorola/xt926_jbbl
 
-# xt907_jbbl specific overlay
+# xt926_jbbl specific overlay
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
 PRODUCT_AAPT_CONFIG := normal
